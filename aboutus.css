@@ -1,0 +1,129 @@
+.row{
+	display: flex;
+}
+.row1 {
+	padding-left: 0px;
+	display: flex;
+}
+.row1 .col-md-6{
+	padding-left: 0px;
+}
+.row1 .col-md-6 .col-md-6{
+	padding-right: 0px;
+}
+div.logo{
+	float: left;
+	padding-left: 0px;
+	margin-top: 10px;
+}
+.aboutus{
+	color:#E2A040 ;
+	font-family: "Passion One";
+	margin-bottom: 30px;
+	border-bottom: 4px solid #3C72A0;
+	padding-right: 0px;
+	width: 210px;
+}
+.aboutus1{
+	color:#E2A040 ;
+	font-family: "Passion One";
+	margin-bottom: 30px;
+	border-bottom: 4px solid #3C72A0;
+	padding-right: 0px;
+	width: 140px;
+	}
+	.aboutus2{
+	color:#E2A040 ;
+	font-family: "Passion One";
+	margin-bottom: 30px;
+	border-bottom: 4px solid #3C72A0;
+	padding-right: 0px;
+	width: 150px;
+	}
+.aboutus4{
+	color:#E2A040 ;
+	font-family: "Passion One";
+	margin-bottom: 30px;
+	border-bottom: 4px solid #3C72A0;
+	padding-right: 0px;
+	width: 220px;
+
+	}
+	.aboutus6{
+	color:#E2A040 ;
+	font-family: "Passion One";
+	margin-bottom: 30px;
+	border-bottom: 4px solid #3C72A0;
+	padding-right: 0px;
+	width: 220px;
+	}
+
+	footer.footer{
+		padding-left: 450px;
+		padding-top: 30px;
+	}
+
+
+.beheslogo{
+	float: right;
+	padding-right: 100px;
+}
+h2.headings{
+	font-family: impact;
+	color: #E2A040;
+}
+.b{
+	margin-top: 18px;
+	font-family: "Passion One";
+}
+
+.content{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	display: flex;
+	margin-top: 0px;
+}
+.container{
+	background-color: black;
+}
+.description{
+	margin-top: 0px;
+	font-size: 20px;
+
+	font-family: 'Gothic',century;
+	
+	color: white;
+}
+.rsz_mike{
+    padding: 25px 10px 0px 0px; 
+}
+
+a{
+	text-decoration: none;
+}
+.fbcontact{
+	display: flex;
+}
+div.logo1{
+	padding-right: 150px;
+	padding-top: 5px;
+}
+@media only screen and (max-device-width: 450px){
+	footer.footer{
+		padding-left: 30%;
+	}
+	h3.description{
+		text-overflow:ellipsis;
+	}
+	div.logo{
+		padding-left: 12%;
+	}
+}
+@media only screen and (min-device-width: 451px) and (max-device-width:992px) {
+	footer.footer{
+		padding-left: 30%;
+	}
+	div.logo{
+		padding-left: 20%;
+	}
+}

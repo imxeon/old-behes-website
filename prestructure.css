@@ -1,0 +1,417 @@
+	.modal-footer{
+		background-image:url("images/cssbg.jpg");
+	}
+	.modal-header{
+		background-image:url("images/cssbg.jpg");
+	}
+.modal-body{
+       background-image:url("images/cssbg.jpg"); 
+	}
+	.modal-text1{
+		color: white;
+	}
+	.modal-text2{
+		color: white;
+	}.modal-text3{
+		color: white;
+	}.modal-text4{
+		color: white;
+	}
+footer.footer{
+		padding-left: 41%;
+		padding-top:1% ;
+	}
+a{
+	text-decoration: none;
+}
+.mikesmall{
+	padding-top: 5%;
+}
+.mikesmall1{
+	padding-top: 1.5%;
+	
+}
+.txt21{
+color: #E2A040;
+	font-family: impact;
+	-webkit-font-family: impact;
+    padding-right: 2%;   
+    padding-bottom: 2%;
+    
+	padding-left: 1%;
+}
+
+.linktoau{
+	padding-left: 2%;
+	padding-top: 2%;
+
+}
+
+
+.what{
+	font-family: impact;
+	-webkit-font-family: impact;
+	font-size: 400% ;
+	text-align: right;
+	color: #3C72A0;
+	margin-bottom: 0%;
+}
+
+.howtoprepare{
+	padding-left:12%;
+	padding-right: 12%;
+}
+.txt2{
+	color: #E2A040;
+	font-family: impact;
+	-webkit-font-family: impact;
+    padding-right: 2%;   
+    padding-bottom: 2%;
+    padding-left: 2%;
+}
+
+
+.txt3{
+	color: #E2A040;
+	font-family: impact;
+	-webkit-font-family: impact;
+	padding-left: 3%;
+	padding-right: 3%;
+	width:200px; 
+}
+.ourteam{
+	padding-left: 12%;
+	padding-right: 12%;
+}
+.ourteamalign{
+	display: flex;
+	padding-left: 12%;
+}
+.ourteamalign1{
+	display: flex;
+	padding-left: 0%;
+}
+
+.ourteamposition{
+	padding-left: 12%;
+	display: flex;
+}
+
+.txt4{
+	color: #E2A040;
+	padding-right: 3%;
+	font-family: impact;
+	-webkit-font-family: impact;
+	padding-left: 5%;
+	width:200px;
+	
+}
+.contactalign{
+	display: flex;
+	padding-left: 12%;
+}
+.prettygoodpic{
+	padding-left: 12%;
+	padding-right:12%;
+}
+.htpalign{
+	display: flex;
+	padding-left: 5%;	
+}
+.workshopalign{
+	display: flex;
+	padding-left: 12%;
+}
+.workshop{
+	padding-left: 12%;
+	padding-right: 12%;
+}
+.uce{
+	border-top: 4px solid #3C72A0;
+	border-radius: 25px;
+	border-bottom: 4px solid #3C72A0;
+	margin-top:50px; 
+}
+.topthree{
+	padding-top: 5%;
+	display: flex;
+}
+
+.header{
+	font-family: 'Passion One';
+	text-align: right;
+	color: black;
+}
+
+.row{
+	padding-bottom: 20px;
+	background-color: black;
+    border-bottom: 4px solid #3C72A0;
+	 border-radius: 25px;
+}
+.container{background-color: black;
+	/*background-image: url("images/cssbg2.jpg");*/
+}
+
+
+	img.mb_logo{
+		cursor:pointer;
+		cursor: hand;
+		margin:auto;		
+	}
+.txt2{
+	cursor: hand;
+	cursor: pointer;
+}
+.rimg{
+	cursor: hand;
+	cursor: pointer;
+}
+.modal-footer{
+	text-align: left;
+}
+.fbpage{
+	text-align: right;
+	margin-top: 7px;
+}
+div.fbpage1{
+	text-align: right;
+	margin-top: 7px;
+}
+
+.dropbox{
+	text-align: center;
+}
+.col-md-12{
+	float: center;
+}
+.modal-title{
+	color: white;
+}
+
+a.buttongrey {
+    -moz-box-shadow: inset 0 0 0 1px #63ad0d;
+    -webkit-box-shadow: inset 0 0 0 1px #63ad0d;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    background: #eee;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#eee), to(#e2e2e2));
+    background: -moz-linear-gradient(#eee, #e2e2e2);
+    background: linear-gradient(#eee, #e2e2e2);
+    border: solid 1px #d0d0d0;
+    border-bottom: solid 3px #b2b1b1;
+    border-radius: 3px;
+    box-shadow: inset 0 0 0 1px #f5f5f5;
+    color: #555;
+    display: inline-block;
+    font: bold 12px Arial, Helvetica, Clean, sans-serif;
+    margin: 0 25px 25px 0;
+    padding: 10px 20px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #fafafa; }
+    
+a.buttongrey:hover {
+    background: #e4e4e4;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#e4e4e4), to(#ededed));
+    background: -moz-linear-gradient(#e4e4e4, #ededed);
+    background: linear-gradient(#e4e4e4, #ededed);
+    border: solid 1px #c2c2c2;
+    border-bottom: solid 3px #b2b1b1;
+    box-shadow: inset 0 0 0 1px #efefef; }
+    
+a.buttongrey:active {
+    background: #dfdfdf;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#dfdfdf), to(#e3e3e3));
+    background: -moz-linear-gradient(#dfdfdf, #e3e3e3);
+    background: linear-gradient(#dfdfdf, #e3e3e3);
+    border: solid 1px #959595;
+    box-shadow: inset 0 10px 15px 0 #c4c4c4;
+    top:2px;}
+@media only screen and (max-device-width: 450px){
+	
+	div.linktoau{
+		padding-left:20px; 
+		 
+	}
+	.txt21{
+		font-size: 80%;
+	}
+	
+	.mikesmall1{
+		display: none;
+	}
+	img.mb_logo{
+		padding-left: 10%;
+	}
+	h2.what{
+		font-size: 150%;
+	}
+	.txt4{
+		font-size: 50%;
+	}
+
+	.txt3{
+		font-size: 50%;
+	}
+	
+	.txt2{
+		font-size: 50%;
+	}
+	.mikesmall{
+		display: none;
+	}
+}
+@media only screen and (max-device-width: 801px){
+	
+	div.linktoau{
+		padding-left:20px; 
+		 
+	}
+	.txt21{
+		font-size: 80%;
+	}
+	footer.footer{
+		display: none;
+
+	}
+	.mikesmall1{
+		display: none;
+	}
+	img.mb_logo{
+		padding-left: 10%;
+	}
+	h2.what{
+		-webkit-font-family: impact;
+		font-family: impact;
+		font-size: 150%;
+	}
+	.txt4{
+		font-size: 50%;
+	}
+
+	.txt3{
+		font-size: 50%;
+	}
+	
+	.txt2{
+		font-size: 50%;
+	}
+	.mikesmall{
+		display: none;
+	}
+}
+@media only screen and (max-width: 450px){
+	
+	div.linktoau{
+		padding-left:20px; 
+		 
+	}
+	.txt21{
+		font-size: 80%;
+	}
+	footer.footer{
+		display: none;
+
+	}
+	.mikesmall1{
+		display: none;
+	}
+	img.mb_logo{
+		padding-left: 10%;
+	}
+	h2.what{
+		font-size: 150%;
+	}
+	.txt4{
+		font-size: 50%;
+	}
+
+	.txt3{
+		font-size: 50%;
+	}
+	
+	.txt2{
+		font-size: 50%;
+	}
+	.mikesmall{
+		display: none;
+	}
+}
+@media only screen and (min-device-width: 451px) and (max-device-width:992px) {
+	
+	div.linktoau{
+		padding-left:20px; 
+		 
+	}
+	.txt21{
+		font-size: 150%;
+	}
+	footer.footer{
+		display: none;
+
+	}
+	.mikesmall1{
+		display: none;
+	}
+	img.mb_logo{
+		margin: auto;
+	}
+	h2.what{
+		font-size: 200%;
+	}
+	.txt4{
+		font-size: 150%;
+	}
+
+	.txt3{
+		font-size: 150%;
+	}
+	
+	.txt2{
+		font-size: 150%;
+	}
+	.mikesmall{
+		display: none;
+	}
+}
+@media only screen and (min-width: 451px) and (max-width:992px) {
+	
+	div.linktoau{
+		padding-left:20px; 
+		 
+	}
+	.txt21{
+		font-size: 150%;
+	}
+	footer.footer{
+		display: none;
+
+	}
+	.mikesmall1{
+		display: none;
+	}
+	img.mb_logo{
+		margin: auto;
+	}
+	h2.what{
+		font-size: 200%;
+	}
+	.txt4{
+		font-size: 150%;
+	}
+
+	.txt3{
+		font-size: 150%;
+	}
+	
+	.txt2{
+		font-size: 150%;
+	}
+	.mikesmall{
+		display: none;
+	}
+}
+
+   

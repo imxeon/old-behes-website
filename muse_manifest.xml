@@ -1,0 +1,35 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.behes.org/resources" resolutions="1x" timestamp="1500031119244">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="320495372" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="266953120" ref="index"/>
+    <file name="index.css" crc="4040489796" ref="index"/>
+    <file name="nomq_index.css" crc="257607986" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3802586038" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="whatsapp image 2017-06-29 at 001142.jpg" crc="4229683783" ref="index"/>
+    <file name="behes logo.jpg" crc="3839724324" ref="index"/>
+    <file name="u2694-6.png" crc="3505231" ref="index"/>
+    <file name="u2697-5.png" crc="129581889" ref="index"/>
+    <file name="u3514-4.png" crc="264040640" ref="index"/>
+    <file name="u2690-5.png" crc="3935766169" ref="index"/>
+    <file name="u3511-4.png" crc="4016990894" ref="index"/>
+    <file name="u3517-4.png" crc="408466492" ref="index"/>
+    <file name="behes logo-u3952-fr.jpg" crc="310529051" ref="index"/>
+    <file name="behes logo-u3952-fr2.jpg" crc="272047011" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4148839877" seo="true" mt="1500031012884" redirect="true"/>
+</manifest>

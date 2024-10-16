@@ -1,0 +1,44 @@
+.aboutus3{
+	color: #E2A040;
+	font-family: "Passion One";
+	margin-bottom: 30px;
+	border-bottom: 4px solid #3C72A0;
+	padding-right: 0px;
+	width: 170px;
+	}
+	h3{
+		margin: 0px 0px 0px 0px;
+		font-family: "Passion One";
+		font-size: 40px;
+	}
+	.col-md-12{
+		margin: 40px 0px 40px 0px;
+		 
+	}
+	div.salil{
+		background-color: #3C72A0; 
+	}
+	div.salil-content{
+
+	}
+	h3.pujari-align{
+		text-align: right;
+	}
+	h4.pujari-align{
+		text-align: right;
+
+	}
+	h3{
+		color: white;
+	}
+	h4
+	{
+		font-weight: bold;
+		color: #E2A040;
+	}
+	div.imgsalil{
+		padding-top: 25px;
+	}
+div.imgpujari{
+		padding-top: 20px;
+	}

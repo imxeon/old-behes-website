@@ -1,0 +1,16 @@
+.flx{
+	display:flex;
+}
+.himg{
+padding-top: 45px;
+padding-right:10px;
+}
+h3{
+padding-top: 30px;
+font-family: impact;
+	color: #E2A040;
+} 
+h4{
+	color: white;
+	font-family: 'Gothic',century;
+}

@@ -1,0 +1,61 @@
+.aboutus3{
+	color: #E2A040;
+	font-family: "Passion One";
+	margin-bottom: 30px;
+	border-bottom: 4px solid #3C72A0;
+	padding-right: 0px;
+	width: 170px;
+	}
+	h3{
+		margin: 0px 0px 0px 0px;
+		font-family: "Passion One";
+		font-size: 40px;
+	}
+	.col-md-12{
+		margin: 40px 0px 40px 0px;
+		 
+	}
+	div.salil{
+		background-color: #3C72A0; 
+	}
+	
+	h3.pujari-align{
+		text-align: right;
+	}
+	h4.pujari-align{
+		text-align: left;
+
+	}
+	h3{
+		color: #E2A040;
+	}
+	h4
+	{
+		font-weight: bold;
+		font-size: 17px;		
+		color:white   ;
+	}
+	div.imgsalil{
+		padding-top: 25px;
+	}
+div.imgpujari{
+		padding-top: 20px;
+	}
+	footer.footer{
+		padding-left: 450px;
+		padding-top: 30px;
+	}
+	@media only screen and (max-device-width: 450px){
+	footer.footer{
+		padding-left: 30%;
+	}
+	h4{
+		font-size: 80%;
+			
+	}
+	h4.pujari-align{
+		font-size: 70%;
+	}
+	 
+}
+
